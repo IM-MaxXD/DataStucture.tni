@@ -1,15 +1,25 @@
+
 public class Node {
- Object data; // Data of the node
- Node next; // Pointer to the next node in the list
- public Node (Object data) { // Constructor to initialize the node with data
- this.data = data;
- this.next = null;
- }
- public String getAddress() {
- return "" + Integer.toHexString(System.identityHashCode(this));
- }
- // Method for returning the pointer address of node
- public static String getAddress(Node node) {
- return (node == null) ? "null" : node.getAddress();
- }
+	
+	// Attributes in Class Node
+	Node previous;
+	Object data;
+	Node next;
+	
+	// Constructor
+	public Node (Object data) {
+		this.previous = null;
+		this.data = data;
+		this.next = null;
+	}
+	
+	// Method for getting address in specific node
+	public String getAddress() {
+		return "" + Integer.toHexString(System.identityHashCode(this));
+	}
+	
+	public static String getAddress(Node node) {
+		return (node == null) ? "null" : node.getAddress();
+	}
+	
 }
