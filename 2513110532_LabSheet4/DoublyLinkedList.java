@@ -57,7 +57,7 @@ public class DoublyLinkedList {
                 if (current_node.next != null) {
                     current_node.next.previous = new_node;
                 } else {
-                    tail = new_node; // กรณีแทรกต่อท้ายสุด
+                    tail = new_node;
                 }
                 current_node.next = new_node;
             }
