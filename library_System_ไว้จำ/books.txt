@@ -1,0 +1,50 @@
+978001|Java ขั้นเทพ|สมชาย ใจดี|Available
+978002|Data Structure เข้าใจง่าย|สมศรี เรียนเก่ง|Available
+978003|เรียนรู้ Big-O สำหรับคนเริ่มต้น|จอห์น โค้ดดิ้ง|Not Available
+978004|Python for Data Science|Alice Smith|Available
+978005|Clean Code เขียนโค้ดให้คลีน|Robert C. Martin|Not Available
+978006|Introduction to Algorithms|Thomas H. Cormen|Available
+978007|Head First Java|Kathy Sierra|Available
+978008|Effective C++|Scott Meyers|Not Available
+978009|คู่มือเขียนโปรแกรมภาษา C|อาจารย์ ทรงพล|Available
+978010|คณิตศาสตร์ดิสครีต (Discrete Math)|ดร. วิทยา|Available
+978011|ประวัติศาสตร์ไทยฉบับย่อ|สุวิทย์ รักชาติ|Available
+978012|ศิลปะการพูดจูงใจ|ณเดชน์ พูดเก่ง|Not Available
+978013|การลงทุนในตลาดหุ้น|เซียนหุ้น พันล้าน|Available
+978014|คู่มือเอาตัวรอดในมหาลัย|พี่ปีสี่ ใจดี|Available
+978015|ทำอาหารไทยง่ายๆ|เชฟ กระทะเหล็ก|Available
+978016|JavaScript for Beginners|John Doe|Not Available
+978017|HTML & CSS พื้นฐาน|Jane Doe|Available
+978018|React.js พัฒนาเว็บสมัยใหม่|สมหมาย โค้ดเดอร์|Available
+978019|UX/UI Design Principles|Sarah Parker|Not Available
+978020|Database System Concepts|Abraham Silberschatz|Available
+978021|ระบบฐานข้อมูล MySQL|วิชัย ดาต้า|Available
+978022|การพัฒนา API ด้วย Spring Boot|มานพ สปริง|Available
+978023|Machine Learning เบื้องต้น|Andrew Ng|Not Available
+978024|Deep Learning|Ian Goodfellow|Available
+978025|ทฤษฎีสี (Color Theory)|สมหญิง สายอาร์ต|Available
+978026|การปลูกต้นไม้ในคอนโด|คนรัก ธรรมชาติ|Available
+978027|คู่มือซ่อมคอมพิวเตอร์|ช่าง ซ่อมได้|Not Available
+978028|Cybersecurity พื้นฐาน|แฮกเกอร์ ขาว|Available
+978029|เศรษฐศาสตร์จุลภาค|ดร. เศรษฐี|Available
+978030|จิตวิทยาพฤติกรรม|นพ. สมองดี|Available
+978031|วรรณคดีไทยร่วมสมัย|ครู ภาษาไทย|Not Available
+978032|คู่มือเที่ยวญี่ปุ่นด้วยตัวเอง|สายเที่ยว เจแปน|Available
+978033|ภาษาอังกฤษเพื่อการสื่อสาร|Teacher English|Available
+978034|ติวเข้ม TOEIC 900+|ติวเตอร์ เก่ง|Not Available
+978035|ฝึกพูดภาษาจีน (Mandarin)|เหล่าซือ หวัง|Available
+978036|การจัดการโปรเจกต์ (Agile/Scrum)|Scrum Master|Available
+978037|Cloud Computing เบื้องต้น|Amazon Cloud|Available
+978038|Docker & Kubernetes|สมชาย คอนเทนเนอร์|Not Available
+978039|คู่มือถ่ายภาพ Landscape|ช่างภาพ มือโปร|Available
+978040|การตัดต่อวิดีโอด้วย Premiere Pro|วิดีโอ ครีเอเตอร์|Available
+978041|ฟิสิกส์ 1 สำหรับวิศวกร|ดร. นิวตัน|Available
+978042|แคลคูลัส 1 (Calculus I)|ดร. อินทิเกรต|Not Available
+978043|ความน่าจะเป็นและสถิติ|อาจารย์ สถิติ|Available
+978044|Design Patterns in Java|Gang of Four|Available
+978045|เคล็ดลับอ่านหนังสือให้จำแม่น|นักเรียน เกียรตินิยม|Available
+978046|รีวิวหนังสือระดับโลก|นักอ่าน ตัวยง|Not Available
+978047|แนวคิดผู้นำ (Leadership)|ซีอีโอ พันล้าน|Available
+978048|การทำ Digital Marketing|การตลาด ออนไลน์|Available
+978049|พัฒนาเกมด้วย Unity|นักพัฒนา อินดี้|Available
+978050|ปริศนาฆาตกรรมห้องปิดตาย|โคนัน ยอดนักสืบ|Not Available
